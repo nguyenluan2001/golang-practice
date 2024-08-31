@@ -1,4 +1,4 @@
-module github.com/nguyenluan2001/golang-todolist
+module github.com/nguyenluan2001/golang-practice/todolist/server
 
 go 1.19
 

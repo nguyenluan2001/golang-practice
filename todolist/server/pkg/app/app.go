@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/nguyenluan2001/golang-todolist/pkg/model"
-	"github.com/nguyenluan2001/golang-todolist/pkg/util"
+	"github.com/nguyenluan2001/golang-practice/todolist/server/model"
+	"github.com/nguyenluan2001/golang-practice/todolist/server/util"
 	"github.com/valyala/fasthttp"
 )
 

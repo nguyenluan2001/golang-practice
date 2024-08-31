@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/fasthttp/router"
-	"github.com/nguyenluan2001/golang-todolist/pkg/app"
+	"github.com/nguyenluan2001/golang-practice/todolist/server/app"
 	"github.com/valyala/fasthttp"
 )
 

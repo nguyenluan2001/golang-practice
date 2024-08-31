@@ -5,8 +5,8 @@ import (
 	"log"
 
 	"github.com/fasthttp/router"
-	app "github.com/nguyenluan2001/golang-todolist/pkg"
-	_ "github.com/nguyenluan2001/golang-todolist/pkg/statik" // TODO: Replace with the absolute import path
+	app "github.com/nguyenluan2001/golang-practice/todolist/server"
+	_ "github.com/nguyenluan2001/golang-practice/todolist/server/statik" // TODO: Replace with the absolute import path
 	"github.com/valyala/fasthttp"
 )
 
